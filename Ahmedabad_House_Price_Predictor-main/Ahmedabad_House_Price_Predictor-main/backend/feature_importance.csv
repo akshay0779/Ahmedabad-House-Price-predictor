@@ -1,0 +1,196 @@
+feature,importance
+total_sqft,0.11463137
+bhk,0.10381429
+"location_Riviera Springs, Shela Ahmedabad",0.037451424
+location_other,0.034141593
+location_Motera Ahmedabad,0.033598546
+location_Gota Ahmedabad,0.030111367
+price_sqft,0.029463928
+location_Shilaj Ahmedabad,0.029062916
+"location_Panache, Vaishnodevi Circle Ahmedabad",0.027600579
+"location_Super Shaligram, Gota Ahmedabad",0.024611253
+location_Naranpura Ahmedabad,0.023814455
+"location_Sharanya Altura, Shilaj Ahmedabad",0.023643738
+"location_South Bopal, Bopal Ahmedabad",0.021617303
+"location_Kavisha The Portrait, Shela Ahmedabad",0.019518495
+location_Vastrapur Ahmedabad,0.019243686
+location_Shahibag Ahmedabad,0.019218093
+"location_Vejalpur, Jivraj park Ahmedabad",0.019005736
+"location_Riviera Aspire, Shela Ahmedabad",0.018759457
+location_Ahmedabad,0.017565807
+location_Tragad Ahmedabad,0.015217242
+location_Maninagar Ahmedabad,0.013593802
+location_Chandkheda Ahmedabad,0.01306329
+location_Bapunagar Ahmedabad,0.013030634
+"location_Godrej Green Glades, Jagatpur Ahmedabad",0.01275492
+location_Ghatlodiya Ahmedabad,0.012592444
+location_Chharodi Ahmedabad,0.01240446
+"location_Adani Archway, Jagatpur Ahmedabad",0.011951381
+"location_Riviera Prestige, Makarba Ahmedabad",0.0113262
+floor_num,0.010595186
+location_New CG Road Ahmedabad,0.010556187
+location_Paldi Ahmedabad,0.010531323
+"location_Highline, Gota Ahmedabad",0.010453873
+"location_EMBRACE, Vaishnodevi Circle Ahmedabad",0.010238447
+location_Sarkhej Gandhinagar Highway Ahmedabad,0.0098339105
+"location_Orchid Sky, Shela Ahmedabad",0.009817475
+location_Zundal Ahmedabad,0.009385989
+"location_Shilp Residency, Gota Ahmedabad",0.0087391725
+location_Koteshwar Ahmedabad,0.007842974
+"location_Ideal Imbert, Chharodi Ahmedabad",0.007743413
+"location_Samanvay Scintilla, South Bopal, Bopal Ahmedabad",0.0075771455
+location_Vaishnodevi Circle Ahmedabad,0.007486496
+"location_Tremont, Vaishnodevi Circle Ahmedabad",0.006560493
+"location_Maninagar East, Maninagar Ahmedabad",0.006514777
+"location_Turquoise Greenz, Shela Ahmedabad",0.006461854
+location_Sardar Patel Ring Road Ahmedabad,0.005920648
+"location_Kavisha Atria, Shela Ahmedabad",0.005612564
+location_Ranip Ahmedabad,0.0054246536
+"location_Indraprasth Shivanta, Ambli Ahmedabad",0.0048709144
+"location_Orchid Gold, Sanathal Ahmedabad",0.004774347
+"location_Shree Balaji Wind Park, Vaishnodevi Circle Ahmedabad",0.004610174
+"location_Saanvi Nirman Spectra, Bopal Ahmedabad",0.004530284
+location_Shela Ahmedabad,0.004222615
+location_Jagatpur Ahmedabad,0.0041632373
+location_Makarba Ahmedabad,0.003965174
+"location_Serenity Sky, South Bopal, Bopal Ahmedabad",0.0033005509
+location_Gurukul Ahmedabad,0.0032050412
+"location_Adani The Meadows, Vaishnodevi Circle Ahmedabad",0.0028097217
+"location_Olive Greens, Gota Ahmedabad",0.0026884105
+location_Navrangpura Ahmedabad,0.0025529838
+"location_Takshashila AIR, Ellisbridge Ahmedabad",0.0021619264
+location_Bopal Ahmedabad,0.002131978
+"location_Swati Chrysantha, Shela Ahmedabad",0.002045614
+"location_Orchid Legacy, Sardar Patel Ring Road Ahmedabad",0.001951883
+location_Bhadaj Ahmedabad,0.00194805
+location_Naroda Ahmedabad,0.0019286951
+location_New Ranip Ahmedabad,0.0018846273
+location_Thaltej Ahmedabad,0.0017161624
+location_Usmanpura Ahmedabad,0.0016426012
+location_Vatva Ahmedabad,0.0016196452
+"location_Kavisha AER, Shela Ahmedabad",0.001614131
+"location_Zaveri Greens, Ghuma Ahmedabad",0.0015995636
+location_Science City Ahmedabad,0.0015485686
+location_Ghodasar Ahmedabad,0.0014574677
+"location_Saujanya, Khokhra Ahmedabad",0.0013973685
+"location_Shaunak Apartments, Vejalpur, Jivraj park Ahmedabad",0.0013068995
+location_Nikol Ahmedabad,0.0011289794
+"location_Vivaan Essence, Zundal Ahmedabad",0.0010767882
+"location_HR Eliseo, Shela Ahmedabad",0.0010693156
+"location_Applewoods Sorrel Apartments, Bopal Ahmedabad",0.0010602954
+"location_Shilp Revanta, Shela Ahmedabad",0.0010192071
+location_New Maninagar Ahmedabad,0.00076781947
+location_Nava Naroda Ahmedabad,0.00010559603
+"location_Swati Crimson, Thaltej Ahmedabad",1.7436525e-05
+location_Narolgam Ahmedabad,1.0059091e-06
+"location_Jodhpur Village, Jodhpur Ahmedabad",0.0
+"location_Malabar Retreat, Chharodi Ahmedabad",0.0
+"location_IKEBANA, Bodakdev Ahmedabad",0.0
+location_Isanpur Ahmedabad,0.0
+location_Iscon Ambli Road Ahmedabad,0.0
+"location_Iscon Platinum, Bopal Ahmedabad",0.0
+location_Anand Nagar Prahlad Nagar Ahmedabad,0.0
+"location_Avalon courtyard, Ghodasar Ahmedabad",0.0
+"location_Ayaan, Ambli Ahmedabad",0.0
+"location_Anantara Alpines, Thaltej Ahmedabad",0.0
+location_Bodakdev Ahmedabad,0.0
+location_Chanakyapuri Ahmedabad,0.0
+"location_Casa Vyoma, Vastrapur Ahmedabad",0.0
+location_Chandlodiya Ahmedabad,0.0
+"location_Cloud 9, Nehru Nagar Ambawadi Ahmedabad",0.0
+"location_Adani Shantigram Waterlily, Sarkhej Gandhinagar Highway Ahmedabad",0.0
+"location_Adani Shantigram Waterlily, Vaishnodevi Circle Ahmedabad",0.0
+"location_AKSHAR OCEAN PEARL, Ambli Ahmedabad",0.0
+"location_Aaryan Gloria, South Bopal, Bopal Ahmedabad",0.0
+"location_Amara, Bodakdev Ahmedabad",0.0
+"location_Altius Viitor, Ambli Bopal Road Ahmedabad",0.0
+"location_Iscon Vogue, Iscon Ambli Road Ahmedabad",0.0
+"location_Daxini Society, Maninagar Ahmedabad",0.0
+"location_Garden Paradise, Bopal Ahmedabad",0.0
+"location_Eternity by Ratnaakar, Ambli Bopal Road Ahmedabad",0.0
+"location_Enstin Evoq, Science City Road Ahmedabad",0.0
+"location_Eminence 96, Thaltej Ahmedabad",0.0
+location_Ellisbridge Ahmedabad,0.0
+location_Drive In Road Ahmedabad,0.0
+location_Gulbai Tekra Ahmedabad,0.0
+location_Hathijan Ahmedabad,0.0
+"location_Anamika High Point, Bodakdev Ahmedabad",0.0
+"location_Ambrosia, Vaishnodevi Circle Ahmedabad",0.0
+location_Ambli Road Ahmedabad,0.0
+location_Ambli Bopal Road Ahmedabad,0.0
+location_Ambli Ahmedabad,0.0
+location_Ambawadi Ahmedabad,0.0
+"location_Aranyam, Shilaj Ahmedabad",0.0
+location_Ramdev Nagar Ahmedabad,0.0
+"location_Oeuvre 2, Bodakdev Ahmedabad",0.0
+"location_Rajyash Regius, Bopal Ahmedabad",0.0
+location_Prahlad Nagar Ahmedabad,0.0
+"location_PRL Colony, Thaltej Ahmedabad",0.0
+"location_Oriental Viola, Ambli Ahmedabad",0.0
+"location_Oriental Viola, Ambli Bopal Road Ahmedabad",0.0
+"location_Oeuvre 3, Ambli Ahmedabad",0.0
+"location_Orchid Blues, Shela Ahmedabad",0.0
+"location_Sharanya Skyvue, Thaltej Ahmedabad",0.0
+"location_Seventy, Iscon Ambli Road Ahmedabad",0.0
+location_Saraspur Ahmedabad,0.0
+"location_Sankalp Grace 3, Shilaj Ahmedabad",0.0
+location_Sarkhej Ahmedabad,0.0
+location_Satellite Ahmedabad,0.0
+"location_Satyamev Luxor, Ambli Ahmedabad",0.0
+"location_Saujanya II, Khokhra Ahmedabad",0.0
+"location_Riviera Majestica, Shela Ahmedabad",0.0
+"location_Riviera Palacio, Shela Ahmedabad",0.0
+"location_Riviera Woods, Shela Ahmedabad",0.0
+"location_SHILP 14, Bodakdev Ahmedabad",0.0
+"location_SKYVILLE, Shela Ahmedabad",0.0
+"location_SIERRA, Satellite Ahmedabad",0.0
+"location_Saanvi Skydeck Select, Ambli Ahmedabad",0.0
+"location_Saiyamm Apricus, Ambli Ahmedabad",0.0
+"location_Ratnaakar Pristine, Satellite Ahmedabad",0.0
+"location_Riviera Elite, Shela Ahmedabad",0.0
+"location_Maple Tree Garden Homes, Thaltej Ahmedabad",0.0
+"location_Manor Ananda, Ambli Ahmedabad",0.0
+location_Nana Chiloda Ahmedabad,0.0
+"location_Maruti 360, Bodakdev Ahmedabad",0.0
+location_Memnagar Ahmedabad,0.0
+location_Sindhu Bhavan Marg Ahmedabad,0.0
+"location_Sun Atmosphere, Shela Ahmedabad",0.0
+location_Sola Ahmedabad,0.0
+"location_Skyros, Bodakdev Ahmedabad",0.0
+"location_Shubham Skyz, Bodakdev Ahmedabad",0.0
+"location_Shivalik Avenue, Bodakdev Ahmedabad",0.0
+"location_Shilp Paradise, Bodakdev Ahmedabad",0.0
+"location_Shilp Ananta, Shela Ahmedabad",0.0
+"location_Sheetal Gharana, Ambli Ahmedabad",0.0
+"location_The Bellagio, Iscon Ambli Road Ahmedabad",0.0
+"location_The 31ST, Shilaj Ahmedabad",0.0
+"location_Swati Symphony, Thaltej Ahmedabad",0.0
+"location_TIMES 104, Bodakdev Ahmedabad",0.0
+"location_Swati Symphony, Drive In Road Ahmedabad",0.0
+"location_Swati Senor, Ambli Bopal Road Ahmedabad",0.0
+"location_Swati Parkside, Shela Ahmedabad",0.0
+"location_Swati Premier, Shantipura Circle Ahmedabad",0.0
+"location_Sun Footprints, Shela Ahmedabad",0.0
+"location_Surya Emerald, Iscon Ambli Road Ahmedabad",0.0
+"location_Sun Sky Park, Bopal Ahmedabad",0.0
+"location_Shivalik Edge, Ambli Ahmedabad",0.0
+"location_The Bungalows, Satellite Ahmedabad",0.0
+"location_The Emberlynn, Ambli Bopal Road Ahmedabad",0.0
+"location_The Gold by Samor, Hebatpur Ahmedabad",0.0
+"location_The Indus, Sindhu Bhavan Marg Ahmedabad",0.0
+"location_Turquoise Grandeur, Godhavi Ahmedabad",0.0
+"location_The Verity, Satellite Ahmedabad",0.0
+"location_Times 40, Bodakdev Ahmedabad",0.0
+"location_Times 40, Rajpath Rangoli Road Ahmedabad",0.0
+"location_The Kimana Tower, Ambli Ahmedabad",0.0
+"location_The North, Iscon Ambli Road Ahmedabad",0.0
+"location_The Sovereign, Thaltej Ahmedabad",0.0
+"location_The Storeys, Sarkhej Gandhinagar Highway Ahmedabad",0.0
+"location_Venus Pashmina, Bodakdev Ahmedabad",0.0
+location_Vastral Ahmedabad,0.0
+location_Vasna Ahmedabad,0.0
+"location_ZION WINDFIELD, Thaltej Ahmedabad",0.0
+"location_Z Luxuria, Thaltej Ahmedabad",0.0
+"location_shaligram Luxuria, Ambli Ahmedabad",0.0
+"location_shaligram Luxuria, Ambli Bopal Road Ahmedabad",0.0
+"location_visionnaire, Sindhu Bhavan Marg Ahmedabad",0.0

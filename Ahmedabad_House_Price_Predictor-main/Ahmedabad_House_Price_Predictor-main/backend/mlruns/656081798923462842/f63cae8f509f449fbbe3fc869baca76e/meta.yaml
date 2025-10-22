@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gayat/Downloads/House_Price_final/backend/mlruns/656081798923462842/f63cae8f509f449fbbe3fc869baca76e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '656081798923462842'
+lifecycle_stage: active
+run_id: f63cae8f509f449fbbe3fc869baca76e
+run_name: LGBM_House_Price_Model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760884915209
+status: 1
+tags: []
+user_id: gayat

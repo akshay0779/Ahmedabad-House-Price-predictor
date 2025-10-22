@@ -1,0 +1,24 @@
+services:
+  backend:
+    build:
+      context: ../backend
+      dockerfile: ../backend/Dockerfile
+    container_name: house_price_backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ../backend:/app
+    environment:
+      - MODEL_PATH=/app/models/house_price_pipeline_prefect.pkl
+
+  frontend:
+    build:
+      context: ../frontend
+      dockerfile: ../frontend/Dockerfile
+    container_name: house_price_frontend
+    ports:
+      - "8501:8501"
+    depends_on:
+      - backend
+    environment:
+      - API_URL=http://backend:8000/predict

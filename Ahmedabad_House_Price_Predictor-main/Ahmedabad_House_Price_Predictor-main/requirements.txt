@@ -1,0 +1,27 @@
+# Core
+pandas
+numpy
+scikit-learn>=1.7.2
+joblib
+matplotlib
+seaborn
+
+# ML Model
+lightgbm
+
+# Backend
+fastapi
+uvicorn[standard]
+pydantic
+requests
+
+# Frontend
+streamlit
+streamlit
+requests
+pandas
+
+
+# Automated pipeline
+mlflow
+prefect

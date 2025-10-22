@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gayat/Downloads/House_Price_final/backend/mlruns/656081798923462842/0edfda44535246b1a8aac01f012d12ee/artifacts
+end_time: 1760879701616
+entry_point_name: ''
+experiment_id: '656081798923462842'
+lifecycle_stage: active
+run_id: 0edfda44535246b1a8aac01f012d12ee
+run_name: Prefect_XGBoost_pipeline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760879701052
+status: 3
+tags: []
+user_id: gayat
