@@ -202,11 +202,6 @@ docker compose up --build
 
 -----
 
-## **Contact**
-
-Built by me, **Gayatri Sunil Jadhav**
-GitHub: `Gayatrisjadhav`
-Hit me up for questions / collabs 🚀
 
 ```
 ```
